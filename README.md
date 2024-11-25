@@ -1,41 +1,11 @@
-# ag-grid-test
+AG Grid with HyperFormula Integration
+This project is a Vue.js application that integrates AG Grid with HyperFormula for spreadsheet-like functionalities, allowing users to manage and manipulate data efficiently.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
-"# AgGrid_With_HyperFormula" 
+Features
+AG Grid Integration: Utilize AG Grid for displaying and managing data in a tabular format.
+HyperFormula Support: Apply formulas to data in the grid using HyperFormula.
+Dynamic Column Management: Add custom columns dynamically through a modal interface.
+Chunked Data Loading: Efficiently load large datasets in chunks to enhance performance.
+Getting Started
+Prerequisites
+Node.js and npm installed on your machine.
