@@ -1,5 +1,6 @@
 # AG Grid with HyperFormula Integration
 
+
 This project is a Vue.js application that integrates AG Grid with HyperFormula for spreadsheet-like functionalities, allowing users to manage and manipulate data efficiently. 
 
 ## Features
