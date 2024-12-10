@@ -16,7 +16,6 @@ This project is a Vue.js application that integrates AG Grid with HyperFormula f
 
 - Node.js and npm installed on your machine.
 
-
 ### Installation
 
 1. Clone the repository:
